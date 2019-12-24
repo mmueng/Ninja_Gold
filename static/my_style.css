@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container {
+    width: 900px;
+    margin: 0 auto;
+    border: 1px solid red;
+    
+}
+.balance{
+    margin: 25px;
+}
+
+.gold{
+    padding: 20px;
+}
+
+    .gold div{
+         width: 175px;
+        height: 150px;
+        display: inline-block;
+        vertical-align: center;
+        padding: 10px;
+        border: 1px solid black;
+        margin-left: 10px;
+    }
+
+        h1{
+            color: red;
+            margin: 10px;
+        }
+        input{
+            margin: 20px;
+            width: 100px;
+            height: 30px;
+        }
+
+.activites{
+    width: 800px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+    .activites div{
+        width: 750px;
+        height: 150px;
+        border: 1px solid red;
+        margin: 20px;
+        padding: 10px;
+        
+    }
+    .log{
+        padding: 10px;
+        overflow: scroll;
+    }
+    .green{
+        color: green;
+    }
+    .red{
+        color: red;
+    }
+    
+    
+    ul{
+        list-style: none;
+    
+}
+    ul li {
+        margin: 10px;
+        
+    }
